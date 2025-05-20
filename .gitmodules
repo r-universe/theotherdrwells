@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "flexIC"]
+	path = flexIC
+	url = https://github.com/theotherdrwells/flexic
 [submodule "piiR"]
 	path = piiR
 	url = https://github.com/theotherdrwells/piir

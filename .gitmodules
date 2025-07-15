@@ -8,3 +8,6 @@
 [submodule "piiR"]
 	path = piiR
 	url = https://github.com/theotherdrwells/piir
+[submodule "snc"]
+	path = snc
+	url = https://github.com/theotherdrwells/snc
